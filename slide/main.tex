@@ -1,0 +1,119 @@
+\documentclass[10pt, aspectratio=169]{beamer}
+
+% --- Configurações de Tema e Idioma ---
+\usetheme{metropolis} % Requer o tema 'metropolis' ou troque por 'Madrid'
+\usepackage[utf8]{inputenc}
+\usepackage[portuguese]{babel}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage[T1]{fontenc}
+\usepackage[portuguese]{babel}
+\usepackage{booktabs} 
+\usepackage{graphicx} 
+\usepackage{tikz} 
+\usetikzlibrary{shapes.geometric, arrows.meta, positioning} 
+% --- Estilos para o Fluxograma TikZ --- 
+\tikzset{ fonte/.style={cylinder, shape border rotate=90, draw, fill=blue!20, minimum height=1.5cm, minimum width=1.5cm, text width=1.5cm, align=center, font=\scriptsize}, processo/.style={rectangle, rounded corners, draw, fill=orange!20, minimum width=2.5cm, minimum height=1cm, text centered, font=\scriptsize\bfseries}, ferramenta/.style={rectangle, draw, fill=gray!10, dashed, minimum width=2.5cm, minimum height=0.6cm, text centered, font=\tiny}, resultado/.style={rectangle, draw, fill=green!20, minimum width=2.5cm, minimum height=1cm, text centered, font=\scriptsize\bfseries}, seta/.style={thick,->,>=stealth} } 
+
+% --- Metadados ---
+\title{Python para Ciência de Dados}
+\subtitle{Da Extração de Biossinais aos Insights de Performance}
+\author{Jaime Bruno Cirne de Oliveira}
+\date{Abril de 2026}
+
+\begin{document}
+
+\maketitle
+
+% --- Slide 1: Contextualização ---
+\begin{frame}{O Desafio do Profissional de Dados}
+    \begin{quotation}
+        \textbf{"A Ciência de Dados é uma área interdisciplinar que se utiliza de ferramentas da estatística e da Computação para extrair conhecimento de dados."}
+    \end{quotation}
+    \vspace{0.5cm}
+    \begin{itemize}
+        \item Vivemos a era do Big Data, estamos imersos e um ambiente onde os dispositivos geram volumes imensos de dados todos os dias.
+        \item Estes dados muitas vezes são ruidosos, nebulosos, estruturados ou não-estruturados. isolados em fontes diversas como: (Bancos Relacionais, APIs, Arquivos CSV).
+        \item É possivel domar esta complexidade com um \textit{pipeline} analítico completo que transforma \textbf{dados brutos} em \textbf{inteligência acionável}.    
+    \end{itemize}
+    
+\end{frame}
+
+% --- Slide 2: Contextualização ---
+\begin{frame}{Contextualização: O Ecossistema de Saúde Digital}
+    \begin{itemize}
+        \item \textbf{Cenário:} Diversidade de dispositivos (Smartwatches, Apps de Nutrição, Sensores).
+        \item \textbf{O Problema:} Dados fragmentados em silos (CSV, JSON, SQLite).
+        \item \textbf{Natureza dos Dados:} 
+            \begin{itemize}
+                \item Séries Temporais (Batimentos, Passos).
+                \item Eventos Discretos (Treinos, Pesagem corporal).
+                \item Dados Amostrados (Nutrição, Sono).
+            \end{itemize}
+        \item \textbf{O Desafio:} Como transformar esses logs isolados em uma visão holística da saúde?
+    \end{itemize}
+\end{frame}
+
+% --- Slide 3: O Pipeline GENÉRICO de Ciência de Dados (Fluxograma) ---
+\begin{frame}{O Pipeline Padrão da Indústria e o Ecossistema Python}
+    \begin{center}
+    \begin{tikzpicture}[node distance=1.5cm and 0.8cm, scale=0.85, transform shape]
+        
+        % Linha 1: Coleta até EDA
+        \node (fontes) [fonte] {Múltiplas\\Fontes};
+        
+        \node (coleta) [processo, right=0.8cm of fontes] {Coleta e Ingestão};
+        \node (f_coleta) [ferramenta, below=0.1cm of coleta] {Pandas / APIs};
+        
+        \node (prep) [processo, right=0.8cm of coleta] {Limpeza e Preparação};
+        \node (f_prep) [ferramenta, below=0.1cm of prep] {Pandas / NumPy};
+        
+        \node (eda) [processo, right=0.8cm of prep] {Análise Exploratória};
+        \node (f_eda) [ferramenta, below=0.1cm of eda] {Seaborn / Matplotlib};
+        
+        % Linha 2: Modelagem e Deploy (Fluxo fazendo uma curva em S)
+        \node (model) [processo, below=1.5cm of eda] {Modelagem e Machine Learning};
+        \node (f_model) [ferramenta, below=0.1cm of model] {Scikit-Learn / SciPy};
+        
+        \node (deploy) [resultado, left=1cm of model] {Comunicação e Tomada de Decisão};
+        \node (f_deploy) [ferramenta, below=0.1cm of deploy] {Jupyter / Dashboards};
+        
+        % Setas do fluxo principal
+        \draw [seta] (fontes) -- (coleta);
+        \draw [seta] (coleta) -- (prep);
+        \draw [seta] (prep) -- (eda);
+        \draw [seta] (eda) -- (model);
+        \draw [seta] (model) -- (deploy);
+        
+        % Seta do Ciclo Iterativo (Retornando do Modelo para Preparação)
+        \draw [seta, dashed, draw=blue!80!black] (model.south) -- ++(0,-0.6) -| node[pos=0.25, below, font=\tiny, text=blue!80!black] {Ciclo Iterativo (Validação e Ajustes)} (prep.south);
+
+    \end{tikzpicture}
+    \end{center}
+\end{frame}
+
+% --- Slide 4: Onde as Ferramentas se Encaixam? ---
+\begin{frame}{O Ecossistema Python no Pipeline}
+    \begin{table}[]
+        \centering
+        \begin{tabular}{@{}llp{5cm}@{}}
+            \toprule
+            \textbf{Ferramenta} & \textbf{Etapa} & \textbf{Função Principal} \\ \midrule
+            \textbf{Python} & Ingestão & Linguagem base e automação de extração. \\
+            \textbf{Pandas} & Limpeza/Integração & Estruturação em \textit{DataFrames}, \textit{Groupby}, \textit{Merge} e \textit{ffill}. \\
+            \textbf{Seaborn} & Exploratória & Visualização estatística avançada (\textit{Heatmaps}, \textit{Boxplots}). \\
+            \textbf{Matplotlib} & Visualização & Customização fina de eixos, legendas e anotações. \\ \bottomrule
+        \end{tabular}
+    \end{table}
+\end{frame}
+
+% --- Slide 5: Estudo de Caso ---
+\begin{frame}{Estudo de Caso: Atividade Física vs. Recuperação}
+    \begin{itemize}
+        \item \textbf{Hipótese 1:} Dias de treino intenso aumentam a regularidade do sono profundo?
+        \item \textbf{Hipótese 2 (O Fator Refluxo):} O volume calórico ingerido correlaciona-se negativamente com a duração do sono?
+        \item \textbf{Técnica:} Categorização de variáveis contínuas (\textit{Feature Engineering}) para redução de carga cognitiva.
+    \end{itemize}
+\end{frame}
+
+\end{document}
