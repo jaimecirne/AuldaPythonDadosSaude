@@ -1,0 +1,91 @@
+Date,Source(s),Timezone,Steps,Distance (m),Elevation (m),Floors climbed,Total Calories (kcal),Active Calories (kcal),Power min (W),Power max (W),Power avg (W),Speed min (m/s),Speed max (m/s),Speed avg (m/s),VO2 max min (ml/min/kg),VO2 max max (ml/min/kg),VO2 max avg (ml/min/kg),Wheelchair pushes,Start Date/Time,Exercise Name,Duration (min)
+2026-03-27,com.google.android.apps.fitness,America/Sao_Paulo,607,2208.594899058342,,,1977,,,,,0.26,1.18,0.41,,,,,,,
+2026-03-28,com.google.android.apps.fitness,America/Sao_Paulo,14242,12008.722259422531,,,2907,,,,,0.02,4.04,0.62,,,,,,,
+2026-03-28,com.hevy,America/Sao_Paulo,,,,,2907,,,,,,,,,,,,2026-03-28 13:28:09,"Treino A (Sexta) - Peito, Ombros e Tríceps",85
+2026-03-28,com.sec.android.app.shealth,America/Sao_Paulo,14242,5415.570068359375,,,2907,,,,,0.92,1.67,1.25,,,,,2026-03-28 12:57:00,79 - Walking,13
+2026-03-28,com.sec.android.app.shealth,America/Sao_Paulo,14242,5415.570068359375,,,2907,,,,,0.92,1.67,1.25,,,,,2026-03-28 20:35:30,79 - Walking,12
+2026-03-28,com.sec.android.app.shealth,America/Sao_Paulo,14242,5415.570068359375,,,2907,,,,,0.92,1.67,1.25,,,,,2026-03-28 21:39:03,79 - Walking,15
+2026-03-28,com.sec.android.app.shealth,America/Sao_Paulo,14242,5415.570068359375,,,2907,,,,,0.92,1.67,1.25,,,,,2026-03-28 22:09:20,79 - Walking,42
+2026-03-29,com.google.android.apps.fitness,America/Sao_Paulo,7125,4663.30904841423,,,2302,,,,,0.01,1.22,0.48,,,,,,,
+2026-03-29,com.hevy,America/Sao_Paulo,,,,,2302,,,,,,,,,,,,2026-03-29 10:59:23,Treino B (Sábado) - Costas,66
+2026-03-29,com.sec.android.app.shealth,America/Sao_Paulo,7125,,,,2302,,,,,,,,,,,,,,
+2026-03-30,com.google.android.apps.fitness,America/Sao_Paulo,7309,6419.2722662091255,,,2020,,,,,0.26,2.07,0.56,,,,,,,
+2026-03-30,com.sec.android.app.shealth,America/Sao_Paulo,7309,,,,2020,,,,,,,,,,,,,,
+2026-03-31,com.google.android.apps.fitness,America/Sao_Paulo,5416,3253.8488788604736,,,2900,,,,,0.01,1.32,0.57,,,,,2026-03-31 18:00:00,café com jiu-jitsu,60
+2026-03-31,com.sec.android.app.shealth,America/Sao_Paulo,5416,,,,2900,,,,,,,,,,,,,,
+2026-04-01,com.google.android.apps.fitness,America/Sao_Paulo,6274,4830.440809965134,,,2561,,,,,0.26,1.41,0.44,,,,,,,
+2026-04-01,com.hevy,America/Sao_Paulo,,,,,2561,,,,,,,,,,,,2026-04-01 21:07:37,Treino C (Domingo),70
+2026-04-01,com.sec.android.app.shealth,America/Sao_Paulo,6274,,,,2561,,,,,,,,,,,,,,
+2026-04-02,com.google.android.apps.fitness,America/Sao_Paulo,4296,2675.694798707962,,,2708,,,,,0.26,6.23,0.60,,,,,2026-04-02 18:00:00,no-gui,60
+2026-04-02,com.sec.android.app.shealth,America/Sao_Paulo,4296,,,,2708,,,,,,,,,,,,,,
+2026-04-03,com.google.android.apps.fitness,America/Sao_Paulo,1877,961.8991882801056,,,1793,,,,,0.28,0.35,0.31,,,,,,,
+2026-04-03,com.sec.android.app.shealth,America/Sao_Paulo,1877,,,,1793,,,,,,,,,,,,,,
+2026-04-04,com.google.android.apps.fitness,America/Sao_Paulo,15803,11871.70925743848,,,2712,,,,,0.11,3.28,0.79,,,,,,,
+2026-04-04,com.hevy,America/Sao_Paulo,,,,,2712,,,,,,,,,,,,2026-04-04 13:13:57,Treino B (Sábado) - Costas,45
+2026-04-04,com.sec.android.app.shealth,America/Sao_Paulo,15803,6915.409912109375,,,2712,,,,,0.92,1.58,1.30,,,,,2026-04-04 14:59:54,79 - Walking,14
+2026-04-04,com.sec.android.app.shealth,America/Sao_Paulo,15803,6915.409912109375,,,2712,,,,,0.92,1.58,1.30,,,,,2026-04-04 15:24:58,79 - Walking,15
+2026-04-04,com.sec.android.app.shealth,America/Sao_Paulo,15803,6915.409912109375,,,2712,,,,,0.92,1.58,1.30,,,,,2026-04-04 15:49:24,79 - Walking,51
+2026-04-04,com.sec.android.app.shealth,America/Sao_Paulo,15803,6915.409912109375,,,2712,,,,,0.92,1.58,1.30,,,,,2026-04-04 18:21:17,79 - Walking,19
+2026-04-05,com.google.android.apps.fitness,America/Sao_Paulo,5028,3514.176441192627,,,1964,,,,,0.27,1.13,0.40,,,,,,,
+2026-04-05,com.sec.android.app.shealth,America/Sao_Paulo,5028,,,,1964,,,,,,,,,,,,,,
+2026-04-06,com.google.android.apps.fitness,America/Sao_Paulo,7217,6175.772484302521,,,2088,,,,,0.02,2.17,0.51,,,,,,,
+2026-04-06,com.sec.android.app.shealth,America/Sao_Paulo,7217,,,,2088,,,,,,,,,,,,,,
+2026-04-07,com.google.android.apps.fitness,America/Sao_Paulo,14159,14726.823490706272,,,4142,,,,,0.01,10.60,0.75,,,,,2026-04-07 07:30:00,café com jiu-jitsu,60
+2026-04-07,com.google.android.apps.fitness,America/Sao_Paulo,14159,14726.823490706272,,,4142,,,,,0.01,10.60,0.75,,,,,2026-04-07 18:00:00,44 - Martial Arts,60
+2026-04-07,com.google.android.apps.fitness,America/Sao_Paulo,14159,14726.823490706272,,,4142,,,,,0.01,10.60,0.75,,,,,2026-04-07 21:14:37,treino de terça,30
+2026-04-07,com.sec.android.app.shealth,America/Sao_Paulo,14159,3772.281982421875,,,4142,,,,,0.00,1.86,1.13,,,,,2026-04-07 11:00:53,79 - Walking,15
+2026-04-07,com.sec.android.app.shealth,America/Sao_Paulo,14159,3772.281982421875,,,4142,,,,,0.00,1.86,1.13,,,,,2026-04-07 20:55:52,57 - Treadmill Running,9
+2026-04-07,com.sec.android.app.shealth,America/Sao_Paulo,14159,3772.281982421875,,,4142,,,,,0.00,1.86,1.13,,,,,2026-04-07 22:05:20,79 - Walking,31
+2026-04-08,com.google.android.apps.fitness,America/Sao_Paulo,11247,8595.40889030695,,,2218,,,,,0.03,3.72,0.66,,,,,,,
+2026-04-08,com.sec.android.app.shealth,America/Sao_Paulo,11247,2082.139892578125,,,2218,,,,,0.00,1.72,1.25,,,,,2026-04-08 21:28:02,0 - Other Workout,3
+2026-04-08,com.sec.android.app.shealth,America/Sao_Paulo,11247,2082.139892578125,,,2218,,,,,0.00,1.72,1.25,,,,,2026-04-08 21:36:35,57 - Treadmill Running,27
+2026-04-09,com.google.android.apps.fitness,America/Sao_Paulo,6767,4237.435447216034,,,2736,,,,,0.17,2.12,0.50,,,,,2026-04-09 18:00:00,no gi,60
+2026-04-09,com.sec.android.app.shealth,America/Sao_Paulo,6767,,,,2736,,,,,,,,,,,,,,
+2026-04-10,com.google.android.apps.fitness,America/Sao_Paulo,8062,6452.2714248895645,,,2409,,,,,0.25,1.35,0.47,,,,,,,
+2026-04-10,com.hevy,America/Sao_Paulo,,,,,2409,,,,,,,,,,,,2026-04-10 20:32:02,"Treino A (Sexta) - Peito, Ombros e Tríceps",58
+2026-04-10,com.sec.android.app.shealth,America/Sao_Paulo,8062,769.5700073242188,,,2409,,,,,1.08,1.97,1.49,,,,,2026-04-10 17:20:39,79 - Walking,18
+2026-04-11,com.google.android.apps.fitness,America/Sao_Paulo,1853,1336.7462540864944,,,1786,,,,,0.29,1.35,0.48,,,,,,,
+2026-04-11,com.sec.android.app.shealth,America/Sao_Paulo,1853,,,,1786,,,,,,,,,,,,,,
+2026-04-12,com.google.android.apps.fitness,America/Sao_Paulo,4878,3226.1245304346085,,,1966,,,,,0.26,1.23,0.46,,,,,,,
+2026-04-12,com.sec.android.app.shealth,America/Sao_Paulo,4878,,,,1966,,,,,,,,,,,,,,
+2026-04-13,com.google.android.apps.fitness,America/Sao_Paulo,6991,5050.720931582153,,,1972,,,,,0.26,1.40,0.48,,,,,,,
+2026-04-13,com.sec.android.app.shealth,America/Sao_Paulo,6991,,,,1972,,,,,,,,,,,,,,
+2026-04-14,com.google.android.apps.fitness,America/Sao_Paulo,12162,9802.731430053711,,,3302,,,,,0.25,2.40,0.60,,,,,2026-04-14 07:30:00,café com jiu-jitsu,60
+2026-04-14,com.sec.android.app.shealth,America/Sao_Paulo,12162,2900.001953125,,,3302,,,,,0.00,3.70,2.19,,,,,2026-04-14 09:12:57,0 - Other Workout,14
+2026-04-14,com.sec.android.app.shealth,America/Sao_Paulo,12162,2900.001953125,,,3302,,,,,0.00,3.70,2.19,,,,,2026-04-14 21:32:40,57 - Treadmill Running,22
+2026-04-14,com.sec.android.app.shealth,America/Sao_Paulo,12162,2900.001953125,,,3302,,,,,0.00,3.70,2.19,,,,,2026-04-14 22:02:27,0 - Other Workout,19
+2026-04-15,com.google.android.apps.fitness,America/Sao_Paulo,12080,11992.0649497509,,,2419,,,,,0.17,3.34,0.50,,,,,,,
+2026-04-15,com.sec.android.app.shealth,America/Sao_Paulo,12080,5008.26513671875,,,2419,,,,,0.00,3.65,2.22,,,,,2026-04-15 20:54:24,57 - Treadmill Running,38
+2026-04-16,com.google.android.apps.fitness,America/Sao_Paulo,10804,9246.022329079336,,,3002,,,,,0.05,2.09,0.62,,,,,2026-04-16 07:30:00,café com jiu-jitsu,60
+2026-04-16,com.sec.android.app.shealth,America/Sao_Paulo,10804,2410.2200317382812,,,3002,,,,,1.04,1.53,1.27,,,,,2026-04-16 21:14:55,79 - Walking,10
+2026-04-16,com.sec.android.app.shealth,America/Sao_Paulo,10804,2410.2200317382812,,,3002,,,,,1.04,1.53,1.27,,,,,2026-04-16 21:26:50,79 - Walking,13
+2026-04-16,com.sec.android.app.shealth,America/Sao_Paulo,10804,2410.2200317382812,,,3002,,,,,1.04,1.53,1.27,,,,,2026-04-16 21:42:54,79 - Walking,10
+2026-04-17,com.google.android.apps.fitness,America/Sao_Paulo,11704,8067.9977040961385,,,2451,,,,,0.26,1.37,0.68,,,,,,,
+2026-04-17,com.sec.android.app.shealth,America/Sao_Paulo,11704,4460.001953125,,,2451,,,,,0.00,2.68,0.79,,,,,2026-04-17 21:19:19,57 - Treadmill Running,100
+2026-04-18,com.google.android.apps.fitness,America/Sao_Paulo,14012,10156.794429039888,,,2303,,,,,0.08,1.40,0.77,,,,,,,
+2026-04-18,com.sec.android.app.shealth,America/Sao_Paulo,14012,6193.120056152344,,,2303,,,,,0.94,1.89,1.29,,,,,2026-04-18 16:46:40,79 - Walking,15
+2026-04-18,com.sec.android.app.shealth,America/Sao_Paulo,14012,6193.120056152344,,,2303,,,,,0.94,1.89,1.29,,,,,2026-04-18 17:04:59,79 - Walking,14
+2026-04-18,com.sec.android.app.shealth,America/Sao_Paulo,14012,6193.120056152344,,,2303,,,,,0.94,1.89,1.29,,,,,2026-04-18 18:33:04,79 - Walking,30
+2026-04-18,com.sec.android.app.shealth,America/Sao_Paulo,14012,6193.120056152344,,,2303,,,,,0.94,1.89,1.29,,,,,2026-04-18 19:13:01,79 - Walking,10
+2026-04-18,com.sec.android.app.shealth,America/Sao_Paulo,14012,6193.120056152344,,,2303,,,,,0.94,1.89,1.29,,,,,2026-04-18 19:26:04,79 - Walking,18
+2026-04-19,com.google.android.apps.fitness,America/Sao_Paulo,7714,5883.110894981772,,,2441,,,,,0.25,1.19,0.53,,,,,,,
+2026-04-19,com.hevy,America/Sao_Paulo,,,,,2441,,,,,,,,,,,,2026-04-19 11:23:53,Treino C (Domingo),67
+2026-04-19,com.sec.android.app.shealth,America/Sao_Paulo,7714,1375.1400146484375,,,2441,,,,,1.06,1.36,1.18,,,,,2026-04-19 22:01:40,79 - Walking,20
+2026-04-20,com.google.android.apps.fitness,America/Sao_Paulo,11517,9472.311493515968,,,2281,,,,,0.27,2.79,0.55,,,,,,,
+2026-04-20,com.sec.android.app.shealth,America/Sao_Paulo,11517,5390.001953125,,,2281,,,,,1.05,3.22,2.41,,,,,2026-04-20 20:41:55,57 - Treadmill Running,37
+2026-04-21,com.google.android.apps.fitness,America/Sao_Paulo,6209,3969.131137639284,,,2211,,,,,0.27,1.30,0.43,,,,,,,
+2026-04-21,com.hevy,America/Sao_Paulo,,,,,2211,,,,,,,,,,,,2026-04-21 14:18:11,Treino B (Sábado) - Costas,48
+2026-04-21,com.sec.android.app.shealth,America/Sao_Paulo,6230,,,,2211,,,,,,,,,,,,,,
+2026-04-22,com.google.android.apps.fitness,America/Sao_Paulo,7210,4890.2449650764465,,,1966,,,,,0.26,1.53,0.49,,,,,,,
+2026-04-22,com.sec.android.app.shealth,America/Sao_Paulo,6481,,,,1966,,,,,,,,,,,,,,
+2026-04-23,com.google.android.apps.fitness,America/Sao_Paulo,9897,6669.697637021542,,,2269,,,,,0.27,1.55,0.53,,,,,,,
+2026-04-23,com.sec.android.app.shealth,America/Sao_Paulo,9116,850.0020141601562,,,2269,,,,,0.00,1.81,1.37,,,,,2026-04-23 20:59:33,0 - Other Workout,48
+2026-04-23,com.sec.android.app.shealth,America/Sao_Paulo,9116,850.0020141601562,,,2269,,,,,0.00,1.81,1.37,,,,,2026-04-23 21:48:48,57 - Treadmill Running,9
+2026-04-24,com.google.android.apps.fitness,America/Sao_Paulo,7108,5551.286493778229,,,2016,,,,,0.04,3.63,0.53,,,,,,,
+2026-04-24,com.sec.android.app.shealth,America/Sao_Paulo,9262,,,,2016,,,,,,,,,,,,,,
+2026-04-25,com.google.android.apps.fitness,America/Sao_Paulo,6977,4487.343698561192,,,2483,,,,,0.14,1.22,0.53,,,,,,,
+2026-04-25,com.hevy,America/Sao_Paulo,,,,,2483,,,,,,,,,,,,2026-04-25 12:16:55,"Treino A (Sexta) - Peito, Ombros e Tríceps",75
+2026-04-25,com.sec.android.app.shealth,America/Sao_Paulo,6023,,,,2483,,,,,,,,,,,,,,
+2026-04-26,com.google.android.apps.fitness,America/Sao_Paulo,2105,1245.6961662769318,,,2040,,,,,0.15,1.20,0.53,,,,,,,
+2026-04-26,com.hevy,America/Sao_Paulo,,,,,2040,,,,,,,,,,,,2026-04-26 12:06:22,Treino C (Domingo),57
+2026-04-26,com.sec.android.app.shealth,America/Sao_Paulo,2835,,,,2040,,,,,,,,,,,,,,
