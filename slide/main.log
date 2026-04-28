@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.3)  27 APR 2026 17:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.3)  28 APR 2026 20:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -685,6 +685,14 @@ File: pgflibraryarrows.meta.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfarrowlinewidth=\dimen334
 ) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfit.code.tex
+File: tikzlibraryfit.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarybackgrounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@layerbox@background=\box83
+\pgf@layerboxsaved@background=\box84
 ) (/usr/local/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count376
@@ -694,24 +702,24 @@ Package babel Info: 'portuguese' activates 'portuges' shorthands.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -751,7 +759,7 @@ LaTeX Font Info:    ... okay on input line 24.
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count377
 \scratchdimen=\dimen335
-\scratchbox=\box83
+\scratchbox=\box85
 \nofMPsegments=\count378
 \nofMParguments=\count379
 \everyMPshowfont=\toks52
@@ -772,64 +780,64 @@ Package grfext Info: Graphics extension search list:
  (/usr/local/texlive/2026/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 24.
+Package hyperref Info: Link coloring OFF on input line 38.
  (./main.out) (./main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 24.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 38.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 24.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 38.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 24.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 24.
+(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 38.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 24.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 24.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 24.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 38.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 24.
+(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 24.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 24.
+(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 38.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 24.
+(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 24.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 24.
+(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 38.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 24.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 24.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 38.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 24.
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 38.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 24.
+(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 24.
+(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/cmss/b/n --> T1/cmss/b/n on input line 24.
+(Font)                  T1/cmss/b/n --> T1/cmss/b/n on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 24.
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 24.
+(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 24.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 24.
+(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 38.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 38.
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `normal' on input line 24.
+(Font)              `pureletters' in the math version `normal' on input line 38.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  T1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 24.
+(Font)                  T1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 38.
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `bold' on input line 24.
+(Font)              `pureletters' in the math version `bold' on input line 38.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 24.
+(Font)                  T1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 38.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 24.
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 38.
  (/usr/local/texlive/2026/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (/usr/local/texlive/2026/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
@@ -843,7 +851,7 @@ Dictionary: translator-numbers-dictionary, Language: English
 ) (/usr/local/texlive/2026/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 ) (./main.nav)
-Overfull \vbox (13.79993pt too high) detected at line 26
+Overfull \vbox (13.79993pt too high) detected at line 40
  []
 
 [1
@@ -852,28 +860,85 @@ Overfull \vbox (13.79993pt too high) detected at line 26
 
 {/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [3
 
-] [4
+]
+<./imgs/pandas_logo.png, id=40, 513.92pt x 513.92pt>
+File: ./imgs/pandas_logo.png Graphic file (type png)
+<use ./imgs/pandas_logo.png>
+Package pdftex.def Info: ./imgs/pandas_logo.png  used on input line 129.
+(pdftex.def)             Requested size: 17.07182pt x 17.07155pt.
+File: ./imgs/pandas_logo.png Graphic file (type png)
+<use ./imgs/pandas_logo.png>
+Package pdftex.def Info: ./imgs/pandas_logo.png  used on input line 129.
+(pdftex.def)             Requested size: 17.07182pt x 17.07155pt.
+<./imgs/numpy_logo.png, id=41, 513.92pt x 513.92pt>
+File: ./imgs/numpy_logo.png Graphic file (type png)
+<use ./imgs/numpy_logo.png>
+Package pdftex.def Info: ./imgs/numpy_logo.png  used on input line 129.
+(pdftex.def)             Requested size: 17.07182pt x 17.07155pt.
+<./imgs/scikit_learn_logo.png, id=42, 513.92pt x 513.92pt>
+File: ./imgs/scikit_learn_logo.png Graphic file (type png)
+<use ./imgs/scikit_learn_logo.png>
+Package pdftex.def Info: ./imgs/scikit_learn_logo.png  used on input line 129.
+(pdftex.def)             Requested size: 17.07182pt x 17.07155pt.
+<./imgs/scipy_logo.png, id=43, 72.27pt x 72.27pt>
+File: ./imgs/scipy_logo.png Graphic file (type png)
+<use ./imgs/scipy_logo.png>
+Package pdftex.def Info: ./imgs/scipy_logo.png  used on input line 129.
+(pdftex.def)             Requested size: 17.07182pt x 17.07166pt.
+<./imgs/seaborn_logo.png, id=45, 158.994pt x 151.5261pt>
+File: ./imgs/seaborn_logo.png Graphic file (type png)
+<use ./imgs/seaborn_logo.png>
+Package pdftex.def Info: ./imgs/seaborn_logo.png  used on input line 129.
+(pdftex.def)             Requested size: 17.07182pt x 16.26791pt.
+<./imgs/matplotlib_logo.png, id=46, 513.92pt x 513.92pt>
+File: ./imgs/matplotlib_logo.png Graphic file (type png)
+<use ./imgs/matplotlib_logo.png>
+Package pdftex.def Info: ./imgs/matplotlib_logo.png  used on input line 129.
+(pdftex.def)             Requested size: 17.07182pt x 17.07155pt.
+<./imgs/jupyter_logo.png, id=47, 513.92pt x 513.92pt>
+File: ./imgs/jupyter_logo.png Graphic file (type png)
+<use ./imgs/jupyter_logo.png>
+Package pdftex.def Info: ./imgs/jupyter_logo.png  used on input line 129.
+(pdftex.def)             Requested size: 17.07182pt x 17.07155pt.
+<./imgs/dashboards_logo.png, id=48, 385.44pt x 385.44pt>
+File: ./imgs/dashboards_logo.png Graphic file (type png)
+<use ./imgs/dashboards_logo.png>
+Package pdftex.def Info: ./imgs/dashboards_logo.png  used on input line 129.
+(pdftex.def)             Requested size: 17.07182pt x 17.06763pt.
+
+Overfull \hbox (1.336pt too wide) in paragraph at lines 129--129
+ [][]\T1/cmss/m/n/7 Múltiplas 
+ []
+
+
+Overfull \vbox (12.82556pt too high) detected at line 129
+ []
+
+[4
+
+ <./imgs/pandas_logo.png> <./imgs/numpy_logo.png> <./imgs/scikit_learn_logo.png> <./imgs/scipy_logo.png> <./imgs/seaborn_logo.png> <./imgs/matplotlib_logo.png> <./imgs/jupyter_logo.png> <./imgs/dashboards_logo.png>] [5
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 108.
+Overfull \vbox (31.03566pt too high) detected at line 192
+ []
+
+[6
+
+] [7
+
+]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 215.
  (/usr/local/texlive/2026/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 108.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 215.
  (/usr/local/texlive/2026/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 108.
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 215.
  (/usr/local/texlive/2026/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 108--108
-[]\T1/cmss/m/n/10 Estruturação em \T1/cmss/m/it/10 Da-ta-Fra-mes\T1/cmss/m/n/10 ,
- []
-
-[5
-
-] [6
+) [8
 
 ]
 \tf@nav=\write6
@@ -894,18 +959,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 27550 strings out of 467525
- 555531 string characters out of 5418983
- 948436 words of memory out of 5000000
- 55894 multiletter control sequences out of 15000+600000
- 642296 words of font info for 69 fonts, out of 8000000 for 9000
+ 28034 strings out of 467525
+ 566869 string characters out of 5418983
+ 976062 words of memory out of 5000000
+ 56364 multiletter control sequences out of 15000+600000
+ 643120 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,13n,123p,1968b,848s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfsi1000.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfso1000.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfss0500.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfss0700.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfsx0700.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb>
-Output written on main.pdf (6 pages, 188870 bytes).
+ 128i,13n,123p,1968b,1018s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfsi0900.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfsi1000.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfso1000.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfss0500.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfss0700.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfsx0700.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb>
+Output written on main.pdf (8 pages, 403098 bytes).
 PDF statistics:
- 114 PDF objects out of 1000 (max. 8388607)
- 75 compressed objects within 1 object stream
- 13 named destinations out of 1000 (max. 500000)
- 43 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 148 PDF objects out of 1000 (max. 8388607)
+ 89 compressed objects within 1 object stream
+ 17 named destinations out of 1000 (max. 500000)
+ 83 words of extra memory for PDF output out of 10000 (max. 10000000)
 
